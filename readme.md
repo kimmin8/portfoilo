@@ -21,7 +21,7 @@
 [링크연결](http://naver.com)
 ---
 
-<p align="center>가운데 정렬 <br>
+<p align="center">가운데 정렬 <br>
 <img src="https://health.chosun.com/site/data/img_dir/2023/06/20/2023062002262_0.jpg" width="120" height="auto"> </p>
 
 이모지 작성법
