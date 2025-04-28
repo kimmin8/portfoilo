@@ -47,7 +47,6 @@
   - 예약시스템, 모바일/태블릿/데스크탑 반응형 웹 사이트
     
   ◾ 작업시간 60시간  
-  
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop  
   
   
@@ -65,7 +64,6 @@
   - 장바구니 기능, 네이버 API활용 로그인 기능  
   
   ◾ 작업시간 75시간  
-  
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop
   
   
@@ -83,7 +81,6 @@
   - 풀페이지 구성, 서브 페이지마다 각기 다른 인터렉션
     
   ◾ 작업시간 70시간  
-  
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop  
   
   
