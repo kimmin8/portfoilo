@@ -1,5 +1,5 @@
-<h1 align="center">🎉환영합니다!🎉</h1>
-<p align="center">✨ 뭐라도 보여드리겠습니다~! ✨</p>
+<h1 align="center">🙌 안녕하세요! 🙌</h1>
+<p align="center">✨ 익숙함보단 성장에 집중하는 디자이너, 김혜민입니다! ✨</p>
 
 
 ---
