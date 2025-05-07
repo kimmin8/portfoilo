@@ -78,4 +78,5 @@
 👉[PROJECT](https://zrr.kr/heMgWY)
 
 🔍 포트폴리오 PDF로 보기 (PDF)
-👉[PDF](https://kimmin8.github.io/study310/portfolio.pdf)
+👉[PDF](https://www.figma.com/proto/NvRiSpDsKLbNYSzOIlBlaa/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=237-713&t=aKufA4OBoX4JegOD-1)
+
