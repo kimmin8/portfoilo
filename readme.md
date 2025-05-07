@@ -30,7 +30,8 @@
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop  
   
   
-  ◾ [Github](https://kimmin8.github.io/portfoilo/project001/index.html)   
+  ◾ [Github](https://kimmin8.github.io/portfoilo/project001/index.html)  
+  ◾ [CODE](https://github.com/kimmin8/portfoilo/blob/main/project001/index.html)
 
   💬 전체적으로 오랫동안 관리가 안되어있고.  
   이미지보단 텍스트 위주의 구성, 동물에 대한 이야기가 없는것이 아쉬운 홈페이지를 재정비하여,시각적 몰입도를 높인 친숙한 공간으로 재탄생
@@ -47,7 +48,8 @@
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop
   
   
-  ◾ [Github](https://kimmin8.github.io/portfoilo/Project002/index.html)
+  ◾ [Github](https://kimmin8.github.io/portfoilo/Project002/index.html)  
+   ◾ [CODE](https://github.com/kimmin8/portfoilo/blob/main/Project002/index.html)
 
   💬 2024년 50주년을 맞이한 오리온 초코파이.  
   누구나 좋아하는 마쉬멜로와 부드러운 빵, 달콤한 초콜릿 코팅 조합으로 오랫동안 사랑받아온 국민간식 오리온 초코파이의 페이지 제작
@@ -65,12 +67,15 @@
   
   
   ◾ [Github](https://kimmin8.github.io/portfoilo/Project003/index.html)  
-  ◾ [CODE]()
+  ◾ [CODE](https://github.com/kimmin8/portfoilo/blob/main/Project003/index.html)
 
   💬 존 카펜터의 영화 ‘HALLOWEEN’에서 시작되어 마이클마이어스를 마스코트 캐릭터로 한 호러 프렌차이즈.  
   13일의 금요일, 나이트메어 시리즈와 함께 1980년대를 대표한 슬래셔물 영화 '할로윈'의 소개페이지
 
   ---  
+
+K. hye min. 
+💌 mislove15@naver.com
 
 🔍 포트폴리오로 한번에 보기 (web)
 👉[PORTFOILO](http://heymin5.dothome.co.kr/)  
@@ -79,5 +84,5 @@
 👉[PROJECT](https://zrr.kr/heMgWY)
 
 🔍 포트폴리오 PDF로 보기 (PDF)
-👉[PDF](https://www.figma.com/proto/NvRiSpDsKLbNYSzOIlBlaa/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=237-713&t=aKufA4OBoX4JegOD-1)
+👉[PORTFOILO](https://www.figma.com/proto/NvRiSpDsKLbNYSzOIlBlaa/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=237-713&t=aKufA4OBoX4JegOD-1)
 
