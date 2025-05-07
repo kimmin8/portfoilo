@@ -75,7 +75,7 @@
   ---  
 
 <h3>K. hye min.</h3>
-<p> 💌 mislove15@naver.com  </p>
+<p> 💌 mislove15@naver.com  </p>  
 
 🔍 포트폴리오로 한번에 보기 (web)
 👉[PORTFOILO](http://heymin5.dothome.co.kr/)  
