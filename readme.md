@@ -47,7 +47,7 @@
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop
   
   
-  ◾ [Github](https://kimmin8.github.io/study310/Project002/index.html)
+  ◾ [Github](https://kimmin8.github.io/portfoilo/Project002/index.html)
 
   💬 2024년 50주년을 맞이한 오리온 초코파이.  
   누구나 좋아하는 마쉬멜로와 부드러운 빵, 달콤한 초콜릿 코팅 조합으로 오랫동안 사랑받아온 국민간식 오리온 초코파이의 페이지 제작
