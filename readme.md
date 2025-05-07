@@ -30,7 +30,7 @@
   ◾ 사용 프로그램 : HTML5 CSS3 JAVASCRIPT Figma PhotoShop  
   
   
-  ◾ [Github](https://kimmin8.github.io/study310/project001/index.html)   
+  ◾ [Github](https://kimmin8.github.io/portfoilo/project001/index.html)   
 
   💬 전체적으로 오랫동안 관리가 안되어있고.  
   이미지보단 텍스트 위주의 구성, 동물에 대한 이야기가 없는것이 아쉬운 홈페이지를 재정비하여,시각적 몰입도를 높인 친숙한 공간으로 재탄생
